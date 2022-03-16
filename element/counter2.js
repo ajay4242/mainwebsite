@@ -10,7 +10,7 @@ function Counter2() {
 						<div className="col-lg-3 col-sm-6 m-b30">
 							<div className="dlab-content-bx style-3 text-center">
 								<div className="icon-content">
-									<h2 className="m-b0 text-primary"><Counterup count={9875}/>+</h2>
+									<h2 className="m-b0 text-primary"><Counterup count={700}/>+</h2>
 									<span className="title">Satisfied Clients</span>
 									<div className="icon-md text-primary"> 
 										<span className="icon-cell">
@@ -23,7 +23,7 @@ function Counter2() {
 						<div className="col-lg-3 col-sm-6 m-b30">
 							<div className="dlab-content-bx style-3 text-center">
 								<div className="icon-content">
-									<h2 className="m-b0 text-primary"><Counterup count={8765}/>+</h2>
+									<h2 className="m-b0 text-primary"><Counterup count={1200}/>+</h2>
 									<span className="title">Project Completed</span>
 									<div className="icon-md text-primary"> 
 										<span className="icon-cell">
@@ -36,7 +36,7 @@ function Counter2() {
 						<div className="col-lg-3 col-sm-6 m-b30">
 							<div className="dlab-content-bx style-3 text-center">
 								<div className="icon-content">
-									<h2 className="m-b0 text-primary"><Counterup count={7894}/>+</h2>
+									<h2 className="m-b0 text-primary"><Counterup count={1500}/>+</h2>
 									<span className="title">Project Lunched</span>
 									<div className="icon-md text-primary"> 
 										<span className="icon-cell">
@@ -49,7 +49,7 @@ function Counter2() {
 						<div className="col-lg-3 col-sm-6 m-b30">
 							<div className="dlab-content-bx style-3 text-center">
 								<div className="icon-content">
-									<h2 className="m-b0 text-primary"><Counterup count={65}/>+</h2>
+									<h2 className="m-b0 text-primary"><Counterup count={5}/>+</h2>
 									<span className="title">Years Completed</span>
 									<div className="icon-md text-primary"> 
 										<span className="icon-cell">

@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { useState } from 'react';
+
 function Header2() {
     const [show, setShow] = useState(false);
     const [open, setOpen] = useState("home");
@@ -46,16 +47,38 @@ function Header2() {
                         </div>
                     </div>
                 </div> */}
+                  <div className="top-bar">
+            <div className="container">
+              <div className="row d-flex justify-content-between">
+                <div className="dlab-topbar-left">
+                  <ul>
+                    <li>
+                      <i className="flaticon-phone-call m-r5"></i>+919627424139
+                    </li>
+                    <li><i className="ti-location-pin m-r5"></i> </li>
+                  </ul>
+                </div>
+                <div className="dlab-topbar-right">
+                  <ul>
+                    <li><i className="ti-skype m-r5"></i> Agency.software</li>
+                    <li>
+                      <i className="ti-email m-r5"></i> info@techkite.org
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
                 {/* <!-- Main Header --> */}
-                <div className="sticky-header main-bar-wraper navbar-expand-lg">
+                <div style={{ marginTop: '-25px' }} className="sticky-header main-bar-wraper navbar-expand-lg">
                     <div className="main-bar clearfix ">
                         <div className="container clearfix">
                             {/* <!-- Website Logo --> */}
                             <div className="logo-header mostion logo-dark">
                                 <Link href="/">
                                     <a>
-                                        <img className="custom-logo-white" src="images/logo-white.png" alt="" />
-                                        <img className="custom-logo" src="images/logo-2.png" alt="" />
+                                        <img className="custom-logo-white" src="images/logo-techkite.png" alt="" />
+                                        <img className="custom-logo" src="images/logo-techkite.png" alt="" />
                                     </a>
                                 </Link>
                             </div>
@@ -73,8 +96,8 @@ function Header2() {
                             {/* <!-- Extra Nav --> */}
                             <div className="extra-nav">
                                 <div className="extra-cell">
-                                <Link href="contact-us-2">
-                                        <a className="btn btn-primary rounded-xl gradient shadow">Get A Quote</a>
+                                <Link href="getaquote">
+                                        <a className="btn btn-primary btn-corner  gradient ">Get A Quote</a>
                                     </Link>
                                 </div>
                             </div>
@@ -87,46 +110,32 @@ function Header2() {
                                 <div className="logo-header">
                                     <Link href="/">
                                         <a>
-                                            <img src="images/logo-2.png" alt="" />
+                                            <img src="images/logo-techkite.png" alt="" />
                                         </a>
                                     </Link>
                                 </div>
 
-                                <ul className="nav navbar-nav navbar">
-                                   
-									<li><Link href="/"><a>Home</a></Link></li>
+                                <ul style={{ marginTop: '13px' }} className="nav ajay navbar-nav navbar">
                                     <li
                                         className={`${
                                             open === "about" ? "open" : ""
                                         }`}
                                     >
                                         <a onClick={() => setOpen("about")}>
-                                            <span>Pages</span>
+                                        <span className="ti-home"></span>
                                             <i className="fa fa-chevron-down"></i>
                                         </a>
                                         <ul className="sub-menu">
-											<li><Link href="/about-us-2"><a>About Us</a></Link></li>
-											<li><Link href="/faq-2"><a>Faq</a></Link></li>
-											<li><Link href="/pricing-table-2"><a>Pricing Table</a></Link></li>
-											<li><Link href="/team-2"><a>Team</a></Link></li>
-                                            <li><Link href="/coming-soon"><a>Coming Soon</a></Link></li>
-                                            <li><Link href="/error-404"><a>Error 404</a></Link></li>
-                                            <li><Link href="/sitedown"><a>Site Down</a></Link></li>
+											<li><Link href="/about-us-2"><a>Business</a></Link></li>
+											<li><Link href="/faq-2"><a>Office</a></Link></li>
+											<li><Link href="/pricing-table-2"><a>Home</a></Link></li>
                                         </ul>
                                     </li>
-                                    <li className={`${open === "services" ? "open" : ""}`}><a onClick={() => setOpen("services")}><span>Services</span><i className="fa fa-chevron-down"></i></a>
-										<ul className="sub-menu">
-											<li><Link href="/services-2"><a>Services</a></Link></li>
-											<li><Link href="/services-details-2"><a>Services Details</a></Link></li>
-										</ul>
-									</li>
-									<li className={`${open === "blog" ? "open" : ""}`}><a onClick={() => setOpen("blog")}><span>Blog</span><i className="fa fa-chevron-down"></i></a>
-										<ul className="sub-menu">
-											<li><Link href="/blog-grid-2"><a>Blog Grid</a></Link></li>
-											<li><Link href="/blog-details-2"><a>Blog Details</a></Link></li>
-										</ul>
-									</li>
-									<li><Link href="/contact-us-2"><a>Contact Us</a></Link></li>
+                                    
+									<li><Link href="/services"><a>Services</a></Link></li>
+									<li><Link href="/blog"><a>Blog</a></Link></li>
+									<li><Link href="/about"><a>About</a></Link></li>
+									<li><Link href="/contact"><a>contact</a></Link></li>
 									
                                 </ul>
                                 <div className="dlab-social-icon">

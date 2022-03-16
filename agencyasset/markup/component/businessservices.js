@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import HomeOwlSlider2 from "./../Element/HomeOwlSlider2";
+import Businessserviceslider from "../../../element/businessserviceslider";
 
 
-class Homepage extends Component {
+class Businessservices extends Component {
   componentDidMount() {}
 
   render() {
@@ -33,7 +33,7 @@ class Homepage extends Component {
               </div>
               <div className="development-box">
                 <div className="container">
-                  <HomeOwlSlider2 />
+                  <Businessserviceslider />
                 </div>
               </div>
             </div>
@@ -52,4 +52,4 @@ class Homepage extends Component {
     );
   }
 }
-export default Homepage;
+export default Businessservices;

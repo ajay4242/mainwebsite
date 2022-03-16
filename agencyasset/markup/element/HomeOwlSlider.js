@@ -104,7 +104,7 @@ class HomeOwlSlider extends Component {
 						<div className="slide-content-box container">
 							<div className="max-w600 text-white">
 								<h2 className="text-white font-weight-400">Automate your  Home With Openkite And Facilitate the Lives</h2>
-								<p>We have more then 100 Decentralize-Apps to manage your Home, Office and Business. Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning.</p>
+								<p>We have more then 200 Decentralize-Apps to manage your Home, Office and Business. Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning.</p>
 								<Link href="/" >
 									<a className="site-button m-r10 white button-lg rounded-xl gradient shadow">Get Started</a>
 								</Link>

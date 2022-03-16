@@ -1,5 +1,5 @@
 
-
+import Link from "next/link";
 function Footer2() {
   return (
     <>
@@ -33,21 +33,21 @@ function Footer2() {
 					<div className="col-xl-3 col-lg-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget widget_about">
 							<div className="footer-logo">
-								<a href="/"><img src="images/logo-white.png" alt=""/></a> 
+								<a href="/"><img src="images/logo-techkite.png" alt=""/></a> 
 							</div>
 							<div className="widget widget_getintuch">
 								<ul>
 									<li>
-										<i className="fa fa-phone gradient"></i>
-										<span>+91 123-456-7890<br/>+91 987-654-3210</span> 
+									     <i  className="ti-mobile"></i>
+										<span style={{ marginLeft: '50px' }}>+91 123-456-7890<br/>+91 987-654-3210</span> 
 									</li>
 									<li>
 										<i className="fa fa-envelope gradient"></i> 
-										<span>info@example.com <br/>info@example.com</span>
+										<span style={{ marginLeft: '50px' }}>info@example.com <br/>info@example.com</span>
 									</li>
 									<li>
-										<i className="fa fa-map-marker gradient"></i>
-										<span>Marmora Road Chi Minh City, Vietnam</span>
+									<i className="ti-location-pin"></i>
+										<span style={{ marginLeft: '50px' }}>Marmora Road Chi Minh City, Vietnam</span>
 									</li>
 								</ul>
 							</div>
@@ -100,12 +100,19 @@ function Footer2() {
 						<span className="copyright-text">Copyright © 2021 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span> 
 					</div>
 					<div className="col-lg-6 col-md-5 text-right"> 
-						<div className="dlab-social-icon">
-							<ul>
+						<div >
+							{/* <ul>
 								<li><a className="fa fa-facebook" href="https://www.facebook.com/"></a></li>
 								<li><a className="fa fa-instagram" href="https://www.instagram.com/"></a></li>
 								<li><a className="fa fa-twitter" href="https://ads.twitter.com/login"></a></li>
-							</ul>
+							</ul> */}
+							   <ul className="list-inline m-a0">
+                                            <li><Link href="/" className="site-button facebook circle mr-1"><i className="fa fa-facebook"></i></Link></li>
+                                            <li><Link href="/" className="site-button google-plus circle mr-1"><i className="fa fa-google-plus"></i></Link></li>
+                                            <li><Link href="/" className="site-button linkedin circle mr-1"><i className="fa fa-linkedin"></i></Link></li>
+                                            <li><Link href="/" className="site-button instagram circle mr-1"><i className="fa fa-instagram"></i></Link></li>
+                                            <li><Link href="/" className="site-button twitter circle mr-1"><i className="fa fa-twitter"></i></Link></li>
+                                        </ul>
 						</div>
 					</div>
                 </div>

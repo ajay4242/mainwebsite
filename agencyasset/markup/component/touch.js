@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import FormStyle from "./../Element/FormStyle";
+import FormStyle from "../Element/FormStyle";
 
 //Images
-import bgimg3 from "./../../images/background/bg1.jpg";
+// import bgimg3 from "./../../images/background/bg1.jpg";
 
-class Homepage extends Component {
+class touch extends Component {
   render() {
     return (
       <div className="page-wraper">
@@ -25,7 +25,7 @@ class Homepage extends Component {
             {/* <!-- Get in touch --> */}
             <div
               className="section-full overlay-primary-dark bg-img-fix"
-              style={{ backgroundImage: "url(" + bgimg3 + ")" }}
+              style={{ backgroundImage: "url(/images/background/bg3.jpg)" }}
             >
               <FormStyle />
             </div>
@@ -36,4 +36,4 @@ class Homepage extends Component {
     );
   }
 }
-export default Homepage;
+export default touch;

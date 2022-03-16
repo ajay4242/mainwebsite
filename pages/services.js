@@ -3,10 +3,13 @@
 import Footer2 from '../layout/footer-2';
 import Header2 from '../layout/header-2';
 import { useState } from "react";
-import AllServices2 from '../element/all-services-2';
+// import AllServices from '../element/all-services-2';
 import Clients2 from '../element/clients-2';
 import OurServices2 from '../element/our-services-2';
 import Testimonial2 from '../element/testimonial-2';
+import Businessservices from "../agencyasset/markup/component/businessservices";
+import Homeautoservices from "../agencyasset/markup/component/homeautoservices";
+import Officeservices from "../agencyasset/markup/component/officeservices";
 import Link from 'next/link';
 
 
@@ -21,6 +24,7 @@ function Services2() {
 			<div className="container">
 				<div className="dlab-bnr-inr-entry">
 					<h1>Services</h1>
+					<h2>Dive into each of our services below and discover some of the incredible projects we’ve created for clients.</h2>
 					{/* <!-- Breadcrumb Row --> */}
 					<nav aria-label="breadcrumb" className="breadcrumb-row">
 						<ul className="breadcrumb">
@@ -35,7 +39,10 @@ function Services2() {
 		{/* <!-- Banner End --> */}
 		
 		{/* <!-- Service --> */}
-		<AllServices2/>
+		{/* <AllServices/> */}
+		<Businessservices/>
+		<Homeautoservices/>	
+		<Officeservices/>	
 		{/* <!-- About us --> */}
 		<section className="content-inner-2 about-wraper-1" style={{"backgroundImage":"url(images/background/bg15.png)","backgroundSize":"contain","backgroundPosition":"center right","backgroundRepeat":"no-repeat"}}>
 			<div className="container">

@@ -360,7 +360,7 @@ function MyApp({ Component, pageProps }) {
           </div>
         </div>
       </div> */}
-      <a
+      {/* <a
         href="https://1.envato.market/VLMVO"
         target="_blank"
         className="bt-buy-now theme-btn"
@@ -375,7 +375,7 @@ function MyApp({ Component, pageProps }) {
       >
         <i className="ti-headphone-alt" />
         <span>Support</span>
-      </a>
+      </a> */}
       <a href="#top">
         <button
           className="scroltop icon-up"

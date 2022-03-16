@@ -3,7 +3,7 @@ import HomeTab from "./../Element/HomeTab";
 import Counter from "./../Element/Counter";
 
 //Images
-import bgimg from "./../../images/background/bg1.jpg";
+// import bgimg from "./../../images/background/bg1.jpg";
 
 
 class Homepage extends Component {
@@ -23,7 +23,7 @@ class Homepage extends Component {
             {/* <!-- Why Chose Us --> */}
             <div
               className="section-full content-inner-1 overlay-primary choseus-tabs  bg-img-fix"
-              style={{ backgroundImage: "url(" + bgimg + ")" }}
+              style={{ backgroundImage: "url(/images/whychoseus/bg.jpg)" }}
             >
               <div className="container">
                 <div className="section-head text-white text-center">
@@ -31,9 +31,7 @@ class Homepage extends Component {
                     Why Chose Us<span className="bg-primary"></span>
                   </h2>
                   <p>
-                    Contrary to popular belief, Lorem Ipsum is not simply random
-                    text. It has roots in a piece of classical Latin literature
-                    from 45 BC, making it over
+                  Our clients come to us because we offer professional, value-based solutions to their needs. Our clients stay with us because we deliver on our promises and provide friendly and professional solutions.
                   </p>
                 </div>
               </div>
