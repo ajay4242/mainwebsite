@@ -61,7 +61,7 @@ function TeamSlider() {
                 <h4 className="dlab-name">
                   <a href="javascript:void(0);">Bhupendra Singh</a>
                 </h4>
-                <span className="dlab-position">Senior Graphic Designer</span>
+                <span className="dlab-position">Graphic Designer</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
@@ -209,7 +209,7 @@ function TeamSlider() {
             </div>
           </div>
         </div>
-        {/* <div
+        <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.4s"
@@ -249,7 +249,7 @@ function TeamSlider() {
               </ul>
             </div>
           </div>
-        </div> */}
+        </div>
         {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
@@ -373,7 +373,7 @@ function TeamSlider() {
             </div>
           </div>
         </div> */}
-        <div
+        {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.8s"
@@ -454,7 +454,7 @@ function TeamSlider() {
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       </Slider>
     </>
   );
