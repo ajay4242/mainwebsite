@@ -15,7 +15,7 @@ function AllServices() {
 									<i className="flaticon-office"></i>
 								</a>  */}
 								  <a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/01.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/01.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -31,7 +31,7 @@ function AllServices() {
 									<i className="flaticon-website"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/02.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/02.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -47,7 +47,7 @@ function AllServices() {
 									<i className="flaticon-pie-charts"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/03.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/03.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -63,7 +63,7 @@ function AllServices() {
 									<i className="flaticon-dollar"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/04.jpg" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/04.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -79,7 +79,7 @@ function AllServices() {
 									<i className="flaticon-line-graph"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/05.jpg" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/05.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -95,7 +95,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/06.jpg" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/06.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -111,7 +111,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/07.jpg" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/07.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -127,7 +127,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/08.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/08.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -143,7 +143,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/09.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/09.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -159,7 +159,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/10.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/10.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -175,7 +175,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/11.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/11.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -191,7 +191,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/12.png" style={{ width: '80px', height:'80px' }} alt=""/>	
+								        <img src="icon/office/12.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -207,7 +207,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/13.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/13.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -223,7 +223,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/14.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/14.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -239,7 +239,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/15.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/15.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -255,7 +255,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/16.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/16.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -271,7 +271,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/17.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/17.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -287,7 +287,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/18.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/18.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -303,7 +303,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/19.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/19.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -319,7 +319,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/20.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/20.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -335,7 +335,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/21.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/21.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -351,7 +351,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/22.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/22.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -367,7 +367,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/23.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/23.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -383,7 +383,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/24.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/24.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -399,7 +399,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/25.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/25.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -415,7 +415,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/26.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/26.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -431,7 +431,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/27.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/27.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -447,7 +447,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/28.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/28.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -463,7 +463,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/29.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/29.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -479,7 +479,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/30.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/30.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -495,7 +495,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/31.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/31.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -511,7 +511,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/32.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/32.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -527,7 +527,7 @@ function AllServices() {
 									<i className="flaticon-help"></i>
 								</a>  */}
 								<a href="https://office.techkite.org/services/" className="icon-cell">
-								        <img src="icon/office/33.png" style={{ width: '70px', height:'70px' }} alt=""/>	
+								        <img src="icon/office/33.png" style={{ width: '60px', height:'60px' }} alt=""/>	
 								</a> 
 							</div>
 							<div className="icon-content">
@@ -544,31 +544,3 @@ function AllServices() {
 }
 
 export default AllServices;
-
-// 7 
-// 8
-// 9 
-// 10
-// 11
-// 12 HR<br></br>
-// 13 
-// 14 
-// 15
-// 16 
-// 17 
-// 18 
-// 19 
-// 20 
-// 21 
-// 23 
-// 24 
-// 25 
-// 26 
-// 27
-// 28 
-// 29
-// 30 
-// 31 
-// 32 
-// 33 
-// 34
