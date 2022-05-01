@@ -50,9 +50,12 @@ function OurServices2() {
                 onMouseOver={() => setOpen("p1")}
               >
                 <div className="icon-bx-sm radius">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  {/* <a href="javascript:void(0);" className="icon-cell">
                     <i className="flaticon-idea"></i>
-                  </a>
+                  </a> */}
+                  <a href="https://business.techkite.org/" className="icon-cell">
+								      <img src="icon/about/growth.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
                 </div>
                 <div className="wraper-effect"></div>
                 <Link href="https://www.business.techkite.org">
@@ -75,9 +78,12 @@ function OurServices2() {
                 onMouseOver={() => setOpen("p2")}
               >
                 <div className="icon-bx-sm radius">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  {/* <a href="javascript:void(0);" className="icon-cell">
                     <i className="flaticon-coding"></i>
-                  </a>
+                  </a> */}
+                  <a href="https://office.techkite.org/" className="icon-cell">
+								      <img src="icon/about/office-desk.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
                 </div>
                 <div className="wraper-effect"></div>
                 <div className="icon-content">
@@ -100,9 +106,12 @@ function OurServices2() {
                 onMouseOver={() => setOpen("p3")}
               >
                 <div className="icon-bx-sm radius">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  {/* <a href="javascript:void(0);" className="icon-cell">
                     <i className="flaticon-rocket"></i>
-                  </a>
+                  </a> */}
+                  <a href="https://home.techkite.org/" className="icon-cell">
+								      <img src="icon/about/home.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
                 </div>
                 <div className="wraper-effect"></div>
                 <Link href="https://www.home.techkite.org">

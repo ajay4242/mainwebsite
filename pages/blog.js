@@ -474,7 +474,7 @@ function BlogLargeRightSidebar() {
                 data-wow-delay="0.4s"
               >
                 <a
-                  href="/contact-us-1"
+                  href="/contact"
                   className="btn btn-link d-inline-flex align-items-center"
                 >
                   <i className="fa fa-angle-right m-r10"></i>Join Now
