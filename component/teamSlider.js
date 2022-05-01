@@ -23,12 +23,12 @@ function TeamSlider() {
         breakpoint: 767,
         settings: {
           slidesToShow: 1,
-          slidesToScroll: 1	,
+          slidesToScroll: 1,
           infinite: true,
           dots: true,
         },
       },
-	  {
+      {
         breakpoint: 480,
         settings: {
           slidesToShow: 1,
@@ -53,25 +53,34 @@ function TeamSlider() {
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/arpit.jpg" alt="" />
+                <img src="images/team/bhupendra.jpeg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Arpit Jaiswal</a>
+                  <a href="javascript:void(0);">Bhupendra Singh</a>
                 </h4>
-                <span className="dlab-position">Senior Developer</span>
+                <span className="dlab-position">Graphic Designer</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
@@ -97,13 +106,22 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
@@ -129,13 +147,63 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div
+          className="item wow fadeInUp"
+          data-wow-duration="2s"
+          data-wow-delay="0.1s"
+        >
+          <div className="dlab-team style-1 m-b10">
+            <div className="dlab-media">
+              <a href="javascript:void(0);">
+                <img src="images/team/arpit.jpg" alt="" />
+              </a>
+            </div>
+            <div className="dlab-content">
+              <div className="clearfix">
+                <h4 className="dlab-name">
+                  <a href="javascript:void(0);">Arpit Jaiswal</a>
+                </h4>
+                <span className="dlab-position">Senior Developer</span>
+              </div>
+              <ul className="dlab-social-icon primary-light">
+                <li>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
@@ -161,19 +229,28 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
-        <div
+        {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.5s"
@@ -193,19 +270,28 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
           </div>
-        </div>
-        <div
+        </div> */}
+        {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.6s"
@@ -225,19 +311,28 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
           </div>
-        </div>
-        <div
+        </div> */}
+        {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.7s"
@@ -257,19 +352,28 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
           </div>
-        </div>
-        <div
+        </div> */}
+        {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.8s"
@@ -289,13 +393,22 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
@@ -321,18 +434,27 @@ function TeamSlider() {
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
-                  <a href="https://www.facebook.com/" className="fa fa-facebook"></a>
+                  <a
+                    href="https://www.facebook.com/"
+                    className="fa fa-facebook"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://www.instagram.com/" className="fa fa-instagram"></a>
+                  <a
+                    href="https://www.instagram.com/"
+                    className="fa fa-instagram"
+                  ></a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/login?lang=en" className="fa fa-twitter"></a>
+                  <a
+                    href="https://twitter.com/login?lang=en"
+                    className="fa fa-twitter"
+                  ></a>
                 </li>
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       </Slider>
     </>
   );
