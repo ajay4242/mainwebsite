@@ -10,10 +10,11 @@ function ContactUs2() {
 	<Header2/>
 	<div className="page-content bg-white">
 		{/* <!-- Banner  --> */}
-		<div className="dlab-bnr-inr style-2 overlay-gradient-dark" style={{"backgroundImage":"url(images/banner/bnr1.jpg)"}}>
+		<div className="dlab-bnr-inr style-2 overlay-gradient-dark" style={{"backgroundImage":"url(images/banner/banner/bnr5.jpg)"}}>
 			<div className="container">
 				<div className="dlab-bnr-inr-entry">
-					<h1>Contact Us</h1>
+					<h1>Get in touch</h1>
+					<h2>Don’t hesitate to contact us if you have any questions, comments or want to say Hi! We will try to respond to everything you ask.</h2>
 					{/* <!-- Breadcrumb Row --> */}
 					<nav aria-label="breadcrumb" className="breadcrumb-row">
 						<ul className="breadcrumb">

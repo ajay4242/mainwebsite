@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Quote2 from "../element/quote-2";
+// import Quote2 from "../element/quote-2";
 import Footer2 from "../layout/footer-2";
 import Header2 from "../layout/header-2";
 import Contact from "../agencyasset/markup/element/Contact";

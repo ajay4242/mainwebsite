@@ -71,10 +71,10 @@ class HomeOwlSlider extends Component {
 							<div className="max-w600 text-white">
 								<h2 className="text-white font-weight-400">Cantrol your  BUSINESS With Techkite and boost productivity.</h2>
 								<p>We have more then 100 Decentralize-Apps to manage your Home, Office and Business. Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning.</p>
-								<Link href="/" >
+								<Link href="contact" >
 									<a className="site-button m-r10  white button-lg rounded-xl gradient shadow">Get Started</a>
 								</Link>
-								<Link href="/" >
+								<Link href="https://www.business.techkite.org" >
 									<a className="site-button outline outline-2 button-lg rounded-xl">How It Work</a>
 								</Link>
 							</div>
@@ -91,7 +91,7 @@ class HomeOwlSlider extends Component {
 								<Link href="/" >
 									<a className="site-button m-r10 white button-lg rounded-xl gradient shadow">Get Started</a>
 								</Link>
-								<Link href="/" >
+								<Link href="https://www.office.techkite.org" >
 									<a className="site-button outline outline-2 button-lg rounded-xl ">How It Work</a>
 								</Link>
 							</div>
@@ -108,7 +108,7 @@ class HomeOwlSlider extends Component {
 								<Link href="/" >
 									<a className="site-button m-r10 white button-lg rounded-xl gradient shadow">Get Started</a>
 								</Link>
-								<Link href="/" >
+								<Link href="https://www.home.techkite.org" >
 									<a className="site-button outline outline-2 button-lg rounded-xl">How It Work</a>
 								</Link>
 							</div>

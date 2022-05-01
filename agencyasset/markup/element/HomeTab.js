@@ -15,7 +15,7 @@ function Para(){
 	return(
 		<>
 			<div className="abuot-box p-lr30">
-				<p>We take care of our clients and they take care of us. It’s all about relationships. We offer an attractive blend of technical know-how and artistic creativity bundled with intelligent techniques and call-to-actions that make your life easy. Most of our work is obtained through client referrals, word-of-mouth and online leads from people.We would love the opportunity to work with your company. </p>
+				<p>We take care of our clients, and they take care of us. It’s all about relationships. We offer an attractive blend of technical know-how and artistic creativity bundled with intelligent techniques and call-to-actions that make your life easy. The majority of our work comes from client referrals, word-of-mouth, and online leads from people. We would love the opportunity to work with your company. </p>
 			</div>	
 		</>
 	)
@@ -70,7 +70,7 @@ const HomeTab = (props) => {
 											<h4 className="font-weight-300">Project Cost Effectiveness</h4>
 											<ul className="list-checked primary">
 												<li><span>Reduced Expenses and Increased Revenue</span></li>
-												<li><span>Flexible price modle suitable for all</span></li>
+												<li><span>Flexible price model suitable for all.</span></li>
 												<li><span>Pay as you go</span></li>
 											</ul>
 										</div>

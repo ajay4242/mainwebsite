@@ -72,25 +72,22 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                                “They take a collaborative approach to working with clients, and they react quickly to urgent deadlines. We're looking forward to a long, working relationship with them as Sport Elevation grows”
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/pic.jpg"
                                     alt=""
                                 />
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Cak Dikin
+                                Aman Rajput
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                            
                                 </span>
                                 <ul className="star-rating">
                                     <li>
@@ -121,25 +118,22 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                                “Techkite's ability to not only understand the requirements of a given brief but to exceed expectations makes them an ideal choice for anybody wanting to engage with clients/supporters.”
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/pic2.jpg"
                                     alt=""
                                 />
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Lora Price
+                                    Rohit Sharma
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                    
                                 </span>
                                 <ul className="star-rating">
                                     <li>
@@ -170,25 +164,22 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                                “We quickly developed a positive relationship with techkite's family and I sincerely value the skill and expertise that they possess as a team - it would seem nothing is impossible”
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/pic7.jpg"
                                     alt=""
                                 />
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Cak Dikin
+                                  Payal Malik  
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                    
                                 </span>
                                 <ul className="star-rating">
                                     <li>
@@ -219,25 +210,22 @@ const renderArrows = () => {
                     <div className="testimonial-1">
                         <div className="testimonial-text">
                             <p>
-                                “Aenean massa diam, sollicitudin non dui ut,
-                                facilisis viverra libero. Nulla facilisi. Nunc
-                                sed purus erat. Praesent placerat dictum libero,
-                                eu varius nulla vulputate non”
+                                “Their work is reliable and they are great at understanding us as a customer, especially when they helped us to rebrand and develop new promotional material”
                             </p>
                         </div>
                         <div className="testimonial-detail">
                             <div className="testimonial-pic">
                                 <img
-                                    src="images/testimonials/pic3.jpg"
+                                    src="images/testimonials/pic1.jpg"
                                     alt=""
                                 />
                             </div>
                             <div className="clearfix">
                                 <strong className="testimonial-name">
-                                    Cak Dikin
+                                Anuj Singh
                                 </strong>
                                 <span className="testimonial-position">
-                                    CEO & Founder{" "}
+                                    
                                 </span>
                                 <ul className="star-rating">
                                     <li>

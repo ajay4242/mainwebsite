@@ -20,14 +20,10 @@ class Businessservices extends Component {
                 <div className="section-head text-black text-center">
                   <h4 className="text-gray-dark m-b10">Our Services</h4>
                   <h2 className="box-title m-tb0">
-                    Web Development Services<span className="bg-primary"></span>
+                  Services for Office Management<span className="bg-primary"></span>
                   </h2>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book.
+                  Revise and optimize your Office work processes, and reduce your time and effort with our cross-functional solution.
                   </p>
                 </div>
               </div>

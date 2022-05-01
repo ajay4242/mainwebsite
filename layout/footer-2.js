@@ -39,15 +39,15 @@ function Footer2() {
 								<ul>
 									<li>
 									     <i  className="ti-mobile"></i>
-										<span style={{ marginLeft: '50px' }}>+91 123-456-7890<br/>+91 987-654-3210</span> 
+										<span style={{ marginLeft: '50px' }}>+91 9627424139<br/>+91 9627424139</span> 
 									</li>
 									<li>
 										<i className="fa fa-envelope gradient"></i> 
-										<span style={{ marginLeft: '50px' }}>info@example.com <br/>info@example.com</span>
+										<span style={{ marginLeft: '50px' }}>info@techkite.org <br/>help@techkite.org</span>
 									</li>
 									<li>
 									<i className="ti-location-pin"></i>
-										<span style={{ marginLeft: '50px' }}>Marmora Road Chi Minh City, Vietnam</span>
+										<span style={{ marginLeft: '50px' }}>Tangroli Noorpur ,Dist Bijnor (Utter Prdesh), INDIA</span>
 									</li>
 								</ul>
 							</div>
@@ -57,11 +57,11 @@ function Footer2() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our links</h5>
 							<ul>
-								<li><a href="javascript:void(0);">Home</a></li>
-								<li><a href="javascript:void(0);">About Us</a></li>
-								<li><a href="javascript:void(0);">Services</a></li>
-								<li><a href="javascript:void(0);">Team</a></li>
-								<li><a href="javascript:void(0);">Blog</a></li>
+								<li><a href="https://office.techkite.org/">Home</a></li>
+								<li><a href="https://office.techkite.org/about/">About Us</a></li>
+								<li><a href="https://office.techkite.org/services/">Services</a></li>
+								<li><a href="https://office.techkite.org/blog/">Blog</a></li>
+								<li><a href="https://office.techkite.org/quote/">Quote</a></li>
 							</ul>
 						</div>
                     </div>
@@ -69,11 +69,11 @@ function Footer2() {
 						<div className="widget widget_services">
 							<h5 className="footer-title">Our Services</h5>
 							<ul>
-								<li><a href="javascript:void(0);">Strategy & Research</a></li>
-								<li><a href="javascript:void(0);">Web Development</a></li>
-								<li><a href="javascript:void(0);">Web Solution</a></li>
-								<li><a href="javascript:void(0);">Digital Marketing</a></li>
-								<li><a href="javascript:void(0);">App Design </a></li>
+								<li><a href="https://home.techkite.org/">Home Automation</a></li>
+								<li><a href="https://office.techkite.org/">Office Management</a></li>
+								<li><a href="https://business.techkite.org/">Business Control</a></li>
+								<li><a href="https://office.techkite.org/services/">Ofice Services</a></li>
+								<li><a href="https://business.techkite.org/services/">Business Services</a></li>
 							</ul>
 						</div>
                     </div>
@@ -81,11 +81,11 @@ function Footer2() {
 						<div className="widget widget_services">
 						   <h5 className="footer-title">Other links</h5>
 							<ul>
-								<li><a href="javascript:void(0);">FAQ</a></li>
-								<li><a href="javascript:void(0);">Portfolio</a></li>
-								<li><a href="javascript:void(0);">Privacy Policy</a></li>
-								<li><a href="javascript:void(0);">Terms & Conditions</a></li>
-								<li><a href="javascript:void(0);">Support </a></li>
+								<li><a href="https://office.techkite.org/contact-us/">Contect For Office</a></li>
+								<li><a href="https://business.techkite.org/contact-us/">Contect For Business </a></li>
+								<li><a href="https://home.techkite.org/contact-us/">Contect For Home</a></li>
+								<li><a href="https://techkite.org/">Terms & Conditions</a></li>
+								<li><a href="https://techkite.org/">Support </a></li>
 							</ul>
 						</div>
                     </div>
@@ -97,7 +97,7 @@ function Footer2() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-7 text-left"> 
-						<span className="copyright-text">Copyright © 2021 <a href="https://dexignzone.com/" target="_blank">DexignZone</a>. All rights reserved.</span> 
+						<span className="copyright-text">Copyright © 2021 <a href="https://techkite.org/" target="_blank">Techkite</a>. All rights reserved.</span> 
 					</div>
 					<div className="col-lg-6 col-md-5 text-right"> 
 						<div >

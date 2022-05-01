@@ -6,7 +6,7 @@ import { useState } from "react";
 // import AllServices from '../element/all-services-2';
 import Clients2 from '../element/clients-2';
 import OurServices2 from '../element/our-services-2';
-import Testimonial2 from '../element/testimonial-2';
+// import Testimonial2 from '../element/testimonial-2';
 import Businessservices from "../agencyasset/markup/component/businessservices";
 import Homeautoservices from "../agencyasset/markup/component/homeautoservices";
 import Officeservices from "../agencyasset/markup/component/officeservices";
@@ -55,12 +55,12 @@ function Services2() {
 					<div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div className="section-head style-3">
 							<h6 className="sub-title text-primary bgl-primary m-b15">Our Skills</h6>
-							<h2 className="title m-b20">We Have Best Experience In  All Our Business Services</h2>
+							<h2 className="title m-b20">We Have Best Experience In  All Our  Services</h2>
 						</div>
 						
 						<div className="progress-bx overflow-hidden mb-3">
 							<div className="progress-info">
-								<span className="title">SEO</span>
+								<span className="title">Home Automation</span>
 								<span className="progress-value">80%</span>
 							</div>
 							<div className="progress mb-3">
@@ -87,8 +87,8 @@ function Services2() {
 						</div>
 						<div className="progress-bx overflow-hidden">
 							<div className="progress-info">
-								<span className="title">Marketing</span>
-								<span className="progress-value">70%</span>
+								<span className="title">Office Management</span>
+								<span className="progress-value">80%</span>
 							</div>
 							<div className="progress mb-3">
 								<div className="progress-bar wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.6s" style={{"width": "70%"}}></div>
@@ -103,7 +103,7 @@ function Services2() {
 		<OurServices2/>
 		
 		{/* <!-- Testimonials --> */}
-		<Testimonial2/>
+		{/* <Testimonial2/> */}
 		
 		{/* <!-- Clients Logo --> */}
 		<Clients2/>

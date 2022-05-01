@@ -55,12 +55,12 @@ function Header2() {
                     <li>
                       <i className="flaticon-phone-call m-r5"></i>+919627424139
                     </li>
-                    <li><i className="ti-location-pin m-r5"></i> </li>
+                    <li><i className="ti-location-pin m-r5"></i> Tangroli Noorpur ,Dist Bijnor (Utter Prdesh), INDIA</li>
                   </ul>
                 </div>
                 <div className="dlab-topbar-right">
                   <ul>
-                    <li><i className="ti-skype m-r5"></i> Agency.software</li>
+                    <li><i className="ti-skype m-r5"></i> techkite.tech</li>
                     <li>
                       <i className="ti-email m-r5"></i> info@techkite.org
                     </li>
@@ -96,7 +96,7 @@ function Header2() {
                             {/* <!-- Extra Nav --> */}
                             <div className="extra-nav">
                                 <div className="extra-cell">
-                                <Link href="getaquote">
+                                <Link href="/quote">
                                         <a className="btn btn-primary btn-corner  gradient ">Get A Quote</a>
                                     </Link>
                                 </div>
@@ -126,12 +126,14 @@ function Header2() {
                                             <i className="fa fa-chevron-down"></i>
                                         </a>
                                         <ul className="sub-menu">
-											<li><Link href="/about-us-2"><a>Business</a></Link></li>
-											<li><Link href="/faq-2"><a>Office</a></Link></li>
-											<li><Link href="/pricing-table-2"><a>Home</a></Link></li>
+											<li><Link href="https://www.business.techkite.org"><a>BusinessControl</a></Link></li>
+											<li><Link href="https://www.office.techkite.org"><a>OfficeManagement</a></Link></li>
+											<li><Link href="https://www.home.techkite.org"><a>HomeAutomation</a></Link></li>
                                         </ul>
                                     </li>
-                                    
+                                    <li><Link href="https://www.business.techkite.org"><a>BusinessControl</a></Link></li>
+									<li><Link href="https://www.office.techkite.org"><a>OfficeManagement</a></Link></li>
+									<li><Link href="https://www.home.techkite.org"><a>HomeAutomation</a></Link></li>
 									<li><Link href="/services"><a>Services</a></Link></li>
 									<li><Link href="/blog"><a>Blog</a></Link></li>
 									<li><Link href="/about"><a>About</a></Link></li>

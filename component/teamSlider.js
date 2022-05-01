@@ -53,15 +53,15 @@ function TeamSlider() {
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/pic1.jpg" alt="" />
+                <img src="images/team/arpit.jpg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Alina Jia</a>
+                  <a href="javascript:void(0);">Arpit Jaiswal</a>
                 </h4>
-                <span className="dlab-position">Senior Designer</span>
+                <span className="dlab-position">Senior Developer</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
@@ -85,15 +85,15 @@ function TeamSlider() {
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/pic2.jpg" alt="" />
+                <img src="images/team/ajay.jpg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Suresh Doe</a>
+                  <a href="javascript:void(0);">Ajay Kumar</a>
                 </h4>
-                <span className="dlab-position">Senior Designer</span>
+                <span className="dlab-position">Founder / CEO</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
@@ -117,15 +117,15 @@ function TeamSlider() {
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/pic3.jpg" alt="" />
+                <img src="images/team/Mahesh.jpg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Domina Li</a>
+                  <a href="javascript:void(0);">Mahesh Jain</a>
                 </h4>
-                <span className="dlab-position">Senior Designer</span>
+                <span className="dlab-position">Senior Advisor</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>

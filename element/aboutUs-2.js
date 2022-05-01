@@ -15,16 +15,16 @@ function AboutUs_2() {
 					<div className="col-lg-6 m-b30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div className="section-head style-3">
 							<h6 className="sub-title text-primary bgl-primary m-b15">ABOUT US</h6>
-							<h2 className="title m-b20">We Are Crative People With Big Dreams To Build Your Life Better</h2>
-							<p>Our Vision is to make daily life tasks smooth and simple with the help AI base advance technology. Access to cutting-edge, 21st century technology allows our team to conduct the most rigorous research available. .</p>
+							<h2 className="title m-b20">We Are Creative People With Big Dreams To Build Your Life Better</h2>
+							<p>Our vision is to use AI-based innovative technology to make daily life routines easy and more enjoyable. Our team's access to cutting-edge 21st-century technologies allows us to undertake the most rigorous research accessible.</p>
 						</div>
 						<ul className="list-check primary m-b30">
-							<li>we loves what we do.</li>
-							<li>We’re best cost change-makers, in a complex world..</li>
+							<li>All love what we do.</li>
+							<li>We’re the best cost change-makers in a complex world.</li>
 							<li>We empower our team and put people above all.</li>
-							<li>We drivem experiences for brands with purpose.</li>
+							<li>We drive experiences for lifestyle with purpose.</li>
 						</ul>
-						<Link href="about-us-2"><a className="btn btn-primary rounded-xl gradient">Learn More</a></Link>
+						<Link href="/about"><a className="btn btn-primary rounded-xl gradient">Learn More</a></Link>
 					</div>
 				</div>
 			</div>

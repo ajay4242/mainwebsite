@@ -17,9 +17,12 @@ function Homeautomationservice() {
 					<div className="col-lg-4 col-md-6">
 					<div className={`${open === "p1" ? "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp active" : "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp"}`} onMouseOver={() => setOpen("p1")}>
 							<div className="icon-bx-sm radius bgl-primary"> 
-								<a href="javascript:void(0);" className="icon-cell">
-									<i className="flaticon-office"></i>
-								</a> 
+								{/* <a href="javascript:void(0);" className="icon-cell">
+									<i className="flaticon-chart"></i>
+								</a>  */}
+								<a href="https://home.techkite.org/services/" className="icon-cell">
+								      <img src="icon/home/house.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
 							</div>
 							<div className="wraper-effect"></div>
 							<div className="icon-content">
@@ -31,9 +34,12 @@ function Homeautomationservice() {
 					<div className="col-lg-4 col-md-6">
 						<div className={`${open === "p2" ? "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp active" : "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp"}`} onMouseOver={() => setOpen("p2")}>
 							<div className="icon-bx-sm radius bgl-primary"> 
-								<a href="javascript:void(0);" className="icon-cell">
+								{/* <a href="javascript:void(0);" className="icon-cell">
 									<i className="flaticon-pie-charts"></i>
-								</a> 
+								</a>  */}
+								<a href="https://home.techkite.org/services/" className="icon-cell">
+								      <img src="icon/home/cctv-camera.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
 							</div>
 							<div className="wraper-effect"></div>
 							<div className="icon-content">
@@ -45,9 +51,12 @@ function Homeautomationservice() {
 					<div className="col-lg-4 col-md-6">
 					<div className={`${open === "p3" ? "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp active" : "icon-bx-wraper style-3 m-b30 box-hover wow fadeInUp"}`} onMouseOver={() => setOpen("p3")}>
 							<div className="icon-bx-sm radius bgl-primary"> 
-								<a href="javascript:void(0);" className="icon-cell">
+								{/* <a href="javascript:void(0);" className="icon-cell">
 									<i className="flaticon-dollar"></i>
-								</a> 
+								</a>  */}
+								<a href="https://home.techkite.org/services/" className="icon-cell">
+								      <img src="icon/home/energy.png" style={{ width: '50px', height:'50px' }} alt=""/>
+								</a>
 							</div>
 							<div className="wraper-effect"></div>
 							<div className="icon-content">

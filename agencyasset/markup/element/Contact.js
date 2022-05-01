@@ -24,7 +24,7 @@ class Contact extends Component {
                                                         <span className="icon-sm text-primary text-left"><i className="ti-location-pin"></i></span>
                                                         Company Address
 													</h5>
-                                                    <p>demo address #8901 Marmora Road Chi Minh City, Vietnam </p>
+                                                    <p>Tangroli Noorpur ,Dist Bijnor (Utter Prdesh), INDIA </p>
                                                     <h6 className="m-b15 font-weight-400"><i className="ti-alarm-clock"></i> Office Hours</h6>
                                                     <p className="m-b0">Mon To Sat - 08.00-18.00</p>
                                                     <p>Sunday - Close</p>
@@ -38,10 +38,10 @@ class Contact extends Component {
                                                         <span className="icon-sm text-primary text-left"><i className="ti-email"></i></span>
                                                         E-mail
 													</h5>
-                                                    <p className="m-b0">info@example.com</p>
-                                                    <p className="m-b0">sales@example.com</p>
-                                                    <p className="m-b0">hr@example.com</p>
-                                                    <p>support@example.com</p>
+                                                    <p className="m-b0">info@techkite.or</p>
+                                                    <p className="m-b0">sales@techkite.or</p>
+                                                    <p className="m-b0">hr@techkite.or</p>
+                                                    <p>support@techkite.or</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -52,7 +52,7 @@ class Contact extends Component {
                                                         <span className="icon-sm text-primary text-left"><i className="ti-mobile"></i></span>
                                                         Phone Numbers
 														</h5>
-                                                    <p>+00 0111-123456</p>
+                                                    <p>+91 9627424139</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -62,7 +62,7 @@ class Contact extends Component {
                                     <form className="inquiry-form dzForm"  action="script/contact.php">
                                         <div className="dzFormMsg"></div>
                                         <h3 className="box-title m-t0 m-b10">Let's Convert Your Idea into Reality <span className="bg-primary"></span></h3>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p>
+                                        <p>We're passionate about innovation, brilliant ideas and the execution that brings it all together in one beautiful experience. If you are too, call or send us an email to get started.</p>
                                         <div className="row">
                                             <div className="col-lg-6">
                                                 <div className="form-group">
