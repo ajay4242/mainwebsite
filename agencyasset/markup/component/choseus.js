@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import HomeTab from "./../Element/HomeTab";
-import Counter from "./../Element/Counter";
+import HomeTab from "./../element/HomeTab";
+import Counter from "./../element/Counter";
 
 //Images
 // import bgimg from "./../../images/background/bg1.jpg";

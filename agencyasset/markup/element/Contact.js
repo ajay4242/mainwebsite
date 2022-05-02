@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import { Link } from 'react-router-dom';
-import Header from '../../../Layout/header-2';
-import Footer from '../../../Layout/footer-2';
+import Header from '../../../layout/header-2';
+import Footer from '../../../layout/footer-2';
 
 // import bgimg from 'images/background/bg2.jpg';
 

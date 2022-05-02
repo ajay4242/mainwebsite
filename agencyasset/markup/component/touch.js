@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import FormStyle from "../Element/FormStyle";
+import FormStyle from "./../element/FormStyle";
 
 //Images
 // import bgimg3 from "./../../images/background/bg1.jpg";

@@ -135,7 +135,7 @@ function TeamSlider() {
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/Mahesh.jpg" alt="" />
+                <img src="images/team/mahesh.jpg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
