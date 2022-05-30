@@ -53,7 +53,7 @@ function Header2() {
                 <div className="dlab-topbar-left">
                   <ul>
                     <li>
-                      <i className="flaticon-phone-call m-r5"></i>+919410272798
+                      <i className="flaticon-phone-call m-r5"></i>+919627424139
                     </li>
                     <li><i className="ti-location-pin m-r5"></i> Tangroli Noorpur ,Dist Bijnor (Utter Prdesh), INDIA</li>
                   </ul>

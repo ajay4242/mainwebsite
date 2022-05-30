@@ -169,7 +169,7 @@ class Footer1 extends Component {
               <div className="row">
                 <div className="col-lg-6 col-md-6 col-sm-6 text-left ">
                   {" "}
-                  <span>Copyright © 2022 DexignZone</span>{" "}
+                  <span>Copyright © 2021 DexignZone</span>{" "}
                 </div>
                 <div className="col-lg-6 col-md-6 col-sm-6 text-right ">
                   <div className="widget-link ">

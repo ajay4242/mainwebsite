@@ -52,7 +52,7 @@ class Contact extends Component {
                                                         <span className="icon-sm text-primary text-left"><i className="ti-mobile"></i></span>
                                                         Phone Numbers
 														</h5>
-                                                    <p>+91 9410272798</p>
+                                                    <p>+91 9627424139</p>
                                                 </div>
                                             </div>
                                         </div>

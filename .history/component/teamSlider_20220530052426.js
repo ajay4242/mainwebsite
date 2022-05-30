@@ -48,20 +48,20 @@ function TeamSlider() {
         <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
-          data-wow-delay="0.2s"
+          data-wow-delay="0.1s"
         >
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/ajay.jpg" alt="" />
+                <img src="images/team/bhupendra.jpeg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Ajay Kumar</a>
+                  <a href="javascript:void(0);">Bhupendra Singh</a>
                 </h4>
-                <span className="dlab-position">Founder / CEO</span>
+                <span className="dlab-position">Graphic Designer</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
@@ -89,20 +89,20 @@ function TeamSlider() {
         <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
-          data-wow-delay="0.1s"
+          data-wow-delay="0.2s"
         >
           <div className="dlab-team style-1 m-b10">
             <div className="dlab-media">
               <a href="javascript:void(0);">
-                <img src="images/team/bhupendra.jpeg" alt="" />
+                <img src="images/team/ajay.jpg" alt="" />
               </a>
             </div>
             <div className="dlab-content">
               <div className="clearfix">
                 <h4 className="dlab-name">
-                  <a href="javascript:void(0);">Bhupendra Singh</a>
+                  <a href="javascript:void(0);">Ajay Kumar</a>
                 </h4>
-                <span className="dlab-position">Graphic Designer</span>
+                <span className="dlab-position">Founder / CEO</span>
               </div>
               <ul className="dlab-social-icon primary-light">
                 <li>
@@ -209,7 +209,7 @@ function TeamSlider() {
             </div>
           </div>
         </div>
-        {/* <div
+        <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.4s"
@@ -249,7 +249,7 @@ function TeamSlider() {
               </ul>
             </div>
           </div>
-        </div> */}
+        </div>
         {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"

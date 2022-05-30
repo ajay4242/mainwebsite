@@ -209,7 +209,7 @@ function TeamSlider() {
             </div>
           </div>
         </div>
-        {/* <div
+        <div
           className="item wow fadeInUp"
           data-wow-duration="2s"
           data-wow-delay="0.4s"
@@ -249,7 +249,7 @@ function TeamSlider() {
               </ul>
             </div>
           </div>
-        </div> */}
+        </div>
         {/* <div
           className="item wow fadeInUp"
           data-wow-duration="2s"

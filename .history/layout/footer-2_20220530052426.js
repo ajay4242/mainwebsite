@@ -39,7 +39,7 @@ function Footer2() {
 								<ul>
 									<li>
 									     <i  className="ti-mobile"></i>
-										<span style={{ marginLeft: '50px' }}>+91 9410272798<br/>+91 9410272798</span> 
+										<span style={{ marginLeft: '50px' }}>+91 9627424139<br/>+91 9627424139</span> 
 									</li>
 									<li>
 										<i className="fa fa-envelope gradient"></i> 
