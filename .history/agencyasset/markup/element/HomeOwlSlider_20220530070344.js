@@ -86,7 +86,7 @@ class HomeOwlSlider extends Component {
 					<div className="slide-content overlay-primary">
 						<div className="slide-content-box container">
 							<div className="max-w600 text-white">
-								<h2 className="text-white font-weight-400">Regulate your office with Techkite and accelerate capacity.</h2>
+								<h2 className="text-white font-weight-400">Regulate your ofiice  with Techkite and accelerate capacity.</h2>
 								<p>We have more then 100 Decentralize-Apps to manage your Home, Office and Business. Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning</p>
 								<Link href="/" >
 									<a className="site-button m-r10 white button-lg rounded-xl gradient shadow">Get Started</a>
@@ -103,7 +103,7 @@ class HomeOwlSlider extends Component {
 					<div className="slide-content overlay-primary">
 						<div className="slide-content-box container">
 							<div className="max-w600 text-white">
-								<h2 className="text-white font-weight-400">Automate your  Home With Openkite And Facilitate the Lives</h2>
+								<h2 className="text-white font-weight-400">Automate your  home with Techkite and facilitate the lives</h2>
 								<p>We have more then 200 Decentralize-Apps to manage your Home, Office and Business. Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning.</p>
 								<Link href="/" >
 									<a className="site-button m-r10 white button-lg rounded-xl gradient shadow">Get Started</a>
@@ -126,7 +126,7 @@ export default HomeOwlSlider;
 // We have more then 100 Decentralize-Apps to manage your Home ,Office , Business</br>Our all D-Apps provide a advance Intelligen Tchnology with embeded AI and Machine-learning
 // Automate your  HOME With <strong><i>Openkite.</i></strong> And Facilitate the Lives
 // Cantrol your  businesss with Techkite and boost productivity
-// Aegulate your OFFICE with techkite and accelerate capacity 
+// Regulate your ofiice  with Techkite and accelerate capacity 
 
 {/* <Link href="/" >
 <a className="site-button m-r10 white button-lg">Get Started</a>
